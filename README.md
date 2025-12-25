@@ -2,6 +2,9 @@
 
 A functional and interactive record player built with HTML, CSS, and JavaScript. This project features animated vinyl rotation, play/pause controls, and volume adjustment.
 
+Live Demo
+https://tbarnett42.github.io/Working-Record-Player/
+
 ## Features
 
 - **Play/Pause Functionality**: Click the button to start and stop the music
